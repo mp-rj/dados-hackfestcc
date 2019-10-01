@@ -5,10 +5,9 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 <!-- toc -->
 
 - [Prontos e já usados](#prontos-e-já-usados)
-  * [Receitas, licitações e despesas de municípios e estado da PB](#receitas-licitações-e-despesas-de-municípios-e-estado-da-pb)
   * [Localização de empresas (CNPJ e CEP)](#localização-de-empresas-cnpj-e-cep)
   * [Informações Municípios da Paraíba](#informações-municípios-da-paraíba)
-  * [Site oficial de dados abertos do TCE-PB](#site-oficial-de-dados-abertos-do-tce-pb) 
+  * [Site oficial de dados abertos do TCE-PB](#site-oficial-de-dados-abertos-do-tce-pb)
   * [Presenças, votações e votos dos deputados federais na câmara](#presenças-votações-e-votos-dos-deputados-federais-na-câmara)
   * [Discursos dos deputados federais na câmara](#discursos-dos-deputados-federais-na-câmara)
   * [Gastos da Cota para Exercício da Atividade Parlamentar dos deputados federais](#gastos-da-cota-para-exercício-da-atividade-parlamentar-dos-deputados-federais)
@@ -43,50 +42,6 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 
 ## Prontos e já usados
 
-#### Receitas, licitações e despesas de municípios e estado da PB
-?    | ! |
- --- | --|
-*O que é* | Dump do SAGRES, o sistema que o Tribunal de Contas do Estado da PB usa para auditar os municípios e estado. |
-*Formato* | csvs (6GB), e um banco MySQL no ar disponível para o hackfest. [O MER do BD é esse](etc/modelo-entidade-relacionamento-sagres.pdf)  |
-*Dicas*   | Temos auditores do TCE como coaches no evento que entendem do riscado. Não temos todas as tabelas mencionadas no MER, pois algumas o TCE classifica como sensíveis. Uma descrição dos dados pode ser encontrada [aqui](etc/Sagres-DescricaoDados.pdf). |
-*Acesso*   | Ssh: hackfest@150.165.85.32 -p 22030, Mysql: hackfest, MysqlDatabase: sagres |
-*Acesso*   | $ **mysql -h 150.165.85.32 -P 22030 -u hackfest -p**, MysqlDatabase: sagres |
-*Projetos usando* | [contratospublicos.info](http://contratospublicos.info), [Destrinchando os gastos públicos](https://analytics-ufcg.github.io/licitacoes-pb/)  |
-
----
-
-#### Localização de empresas (CNPJ e CEP)
- ?    | ! |
-  --- | --|
- *O que é* | Dados sobre localizaçes de empresas participantes de licitações públicas. |
- *Formato* | Um banco MySQL no ar disponível para o hackfest (Variáveis: nu_CPFCNPJ, nu_CEP)  |
- *Acesso*   | Ssh: hackfest@150.165.85.32 -p 22030, Mysql: hackfest , MysqlDatabase: utils |
- *Acesso*   | $ **mysql -h 150.165.85.32 -P 22030 -u hackfest -p**, MysqlDatabase: utils |
- *Projetos usando* | [Destrinchando os gastos públicos](https://analytics-ufcg.github.io/licitacoes-pb/)  |
- 
- ---
- 
- #### Informações Municípios da Paraíba
- ?    | ! |
-  --- | --|
- *O que é* | Indicadores de educação, indicadores socio-demográficos, dentre outros. IDHM (2010), IDEB (2015), População estimada pelo IBGE (2016).  |
- *Formato* | Um banco MySQL no ar disponível para o hackfest (Variáveis: nu_CPFCNPJ, nu_CEP)  |
- *Acesso*   | Ssh: hackfest@150.165.85.32 -p 22030, Mysql: hackfest, MysqlDatabase: municipios |
- *Acesso*   | $ **mysql -h 150.165.85.32 -P 22030 -u hackfest -p**, MysqlDatabase: municipios |
- *Projetos usando* | [Destrinchando os gastos públicos](https://analytics-ufcg.github.io/licitacoes-pb/)  |
- 
- ---
-
-### Site oficial de dados abertos do TCE-PB
-?    | ! |
- --- | --|
-*O que é* | Exportação bruta de dados de várias tabelas do SAGRES Municipal e Estadual e outros sistemas do TCE-PB. |
-*Formato* | Arquivos textuais comprimidos. Valores separados pelo caracter "pipe". |
-*Url*     | https://portal.tce.pb.gov.br/dados-abertos-do-sagres-tcepb/ |
-*Dicas*   | Tabelas presentes da esfera municipal: Receita Orçamentária, Empenhos, Pagamentos, Estornos, Folha de Pessoal, Licitação, Participantes de Licitação, Propostas de Licitação, Obras; Esfera estadual: Receita Orçamentária, Empenhos, Folha de Pessoal. |
-*Projetos usando* |  |
-
----
 
 ### Presenças, votações e votos dos deputados federais na câmara
 ?    | ! |
@@ -117,17 +72,6 @@ Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viáv
 *Url*     | Direto no [site da câmara](http://www2.camara.leg.br/transparencia/cota-para-exercicio-da-atividade-parlamentar/dados-abertos-cota-parlamentar) |
 *Dicas*   | Tem bastante dado a mais na API da câmara, inclusive discursos dos deputados. |
 *Projetos usando* | [House of Cunha](http://www.houseofcunha.com.br), [Serenata de Amor](http://serenatadeamor.org) |
-
----
-
-### Dados das empresas que prestaram serviço ao poder público na PB
-?    | ! |
- --- | --|
-*O que é* | CEP, nome e funções no Cadastro Nacional de Atividade Empresarial para cada empresa que prestou algum serviço ou vendeu mercadoria ao poder público na PB  |
-*Formato* | CSV |
-*Url*     | Em um HD externo com o pessoal do MPPB no evento.  |
-*Dicas*   | Temos construtoras vendendo remédios? |
-*Projetos usando* | [contratospublicos.info](http://contratospublicos.info), [Destrinchando os gastos públicos](https://analytics-ufcg.github.io/licitacoes-pb/) |
 
 ---
 
