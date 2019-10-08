@@ -7,7 +7,7 @@ Dados sobre orçamento, contratações e gastos do estado e dos municípios do R
 - [Município do Rio de Janeiro](#município-do-rio-de-janeiro)
    * [Contratos da Prefeitura do Rio de Janeiro](#contratos-da-prefeitura-do-rio-de-janeiro)
    * [Despesas da Prefeitura do Rio de Janeiro](#despesas-da-prefeitura-do-rio-de-janeiro)
-   * [Despesas por ato Prefeitura do Rio de Janeiro](#despesas-por-ato-da-prefeitura-do-rio-de-janeiro)
+   * [Despesas por ato Prefeitura do Rio de Janeiro](#despesas-por-ato-prefeitura-do-rio-de-janeiro)
    * [Favorecidos por gastos da Prefeitura do Rio de Janeiro](#favorecidos-por-gastos-da-prefeitura-do-rio-de-janeiro)
    * [Receitas da Prefeitura do Rio de Janeiro](#receitas-da-prefeitura-do-rio-de-janeiro)
    * [Parcerias voluntárias da Prefeitura do Rio de Janeiro](#parcerias-voluntárias-da-prefeitura-do-rio-de-janeiro)
