@@ -4,13 +4,18 @@ Dados sobre orçamento, contratações e gastos do estado e dos municípios do R
 
 <!-- toc -->
 
-- [Município do Rio de Janeiro](#municipio-do-rio-de-janeiro)
+- [Município do Rio de Janeiro](#município-do-rio-de-janeiro)
    * [Contratos da Prefeitura do Rio de Janeiro](#contratos-da-prefeitura-do-rio-de-janeiro)
    * [Despesas da Prefeitura do Rio de Janeiro](#despesas-da-prefeitura-do-rio-de-janeiro)
    * [Despesas por ato Prefeitura do Rio de Janeiro](#despesas-por-ato-da-prefeitura-do-rio-de-janeiro)
    * [Favorecidos por gastos da Prefeitura do Rio de Janeiro](#favorecidos-por-gastos-da-prefeitura-do-rio-de-janeiro)
    * [Receitas da Prefeitura do Rio de Janeiro](#receitas-da-prefeitura-do-rio-de-janeiro)
-   * [Parcerias voluntárias da Prefeitura do Rio de Janeiro](#parcerias-voluntarias-da-prefeitura-do-rio-de-janeiro)
+   * [Parcerias voluntárias da Prefeitura do Rio de Janeiro](#parcerias-voluntárias-da-prefeitura-do-rio-de-janeiro)
+
+- [Estado do Rio de Janeiro](#estado-do-rio-de-janeiro)
+   * [Compras Públicas do Estado do Rio de Janeiro](#compras-públicas-do-estado-do-rio-de-janeiro)
+   * [Fornecedores do Estado do Rio de Janeiro](#fornecedores-do-estado-do-rio-de-janeiro)
+   * [Contratos do Estado do Rio de Janeiro](#contratos-do-estado-do-rio-de-janeiro)
 
 
 <!-- tocstop -->
@@ -120,4 +125,39 @@ Dados sobre orçamento, contratações e gastos do estado e dos municípios do R
 **Separador decimal** | , |
 **URL** | <http://riotransparente.rio/MaisTransp/resposta1Export.asp?especie=&tipoExportacao=csv> |
 
+
+## Estado do Rio de Janeiro
+
+### Compras Públicas do Estado do Rio de Janeiro
+
+?    |  !  |
+ --- | --- |
+**Conjunto de dados** | Compras públicas realizadas pelo estado do Rio de Janeiro |
+**Entidade de referência** | Governo do Estado do Rio de Janeiro |
+**Órgão responsável pelos dados** | Secretaria de Estado da Fazenda |
+**Período de referência** | 2010-01-01 - Atual |
+**Formato** | .zip/.csv |
+**Tamanho aproximado em disco** | 190 MB |
+**Codificação** | UTF-8 |
+**Caractere separador** | ; |
+**Separador decimal** | , |
+**Dica** | Extrair os arquivos com algum programa próprio. Por exemplo o WinRar |
+**URL** | <https://www.compras.rj.gov.br/arquivos/ATA_REGISTRO_PRECO.zip><br><https://www.compras.rj.gov.br/arquivos/COMPRAS_DIRETAS.zip><br><https://www.compras.rj.gov.br/arquivos/CATALOGO.zip><br><https://www.compras.rj.gov.br/arquivos/EDITAIS_E_LICITACOES.zip><br><https://www.compras.rj.gov.br/arquivos/PROCESSO_ELETRONICO_DISPENSA.zip> |
+
+
+### Fornecedores do Estado do Rio de Janeiro
+
+?    |  !  |
+ --- | --- |
+**Conjunto de dados** | Fornecedores de compras realizadas pelo estado do Rio de Janeiro |
+**Entidade de referência** | Secretaria de Estado da Fazenda |
+**Órgão responsável pelos dados** | Controladoria-Geral do Município do Rio de Janeiro |
+**Período de referência** | 2010-01-01 - Atual |
+**Formato** | .zip/.csv |
+**Tamanho aproximado em disco** | 190 MB |
+**Codificação** | UTF-8 |
+**Caractere separador** | ; |
+**Separador decimal** | , |
+**Dica** | Extrair os arquivos com algum programa próprio. Por exemplo o WinRar |
+**URL** | <https://www.compras.rj.gov.br/arquivos/ATA_REGISTRO_PRECO.zip><br><https://www.compras.rj.gov.br/arquivos/COMPRAS_DIRETAS.zip><br><https://www.compras.rj.gov.br/arquivos/CATALOGO.zip><br><https://www.compras.rj.gov.br/arquivos/EDITAIS_E_LICITACOES.zip><br><https://www.compras.rj.gov.br/arquivos/PROCESSO_ELETRONICO_DISPENSA.zip> |
 ---
