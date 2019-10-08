@@ -14,8 +14,8 @@ Dados sobre orçamento, contratações e gastos do estado e dos municípios do R
 
 - [Estado do Rio de Janeiro](#estado-do-rio-de-janeiro)
    * [Compras Públicas do Estado do Rio de Janeiro](#compras-públicas-do-estado-do-rio-de-janeiro)
-   * [Fornecedores do Estado do Rio de Janeiro](#fornecedores-do-estado-do-rio-de-janeiro)
-   * [Contratos do Estado do Rio de Janeiro](#contratos-do-estado-do-rio-de-janeiro)
+   * [Fornecedores do Estado do Rio de Janeiro](#fornecedores-de-compras-do-estado-do-rio-de-janeiro)
+   * [Contratos do Estado do Rio de Janeiro](#contratos-de-compras-do-estado-do-rio-de-janeiro)
 
 
 <!-- tocstop -->
