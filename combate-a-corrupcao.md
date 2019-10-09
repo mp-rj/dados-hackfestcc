@@ -15,8 +15,6 @@ Dados sobre combate a corrupção em âmbito nacional
 
 - [Estado do Rio de Janeiro](#estado-do-rio-de-janeiro)
    * [Relatório agregado do Sistema RadarRJ](#Relatório-agregado-do-Sistema-RadarRJ)
-   * [Fornecedores do Estado do Rio de Janeiro](#fornecedores-de-compras-do-estado-do-rio-de-janeiro)
-   * [Contratos do Estado do Rio de Janeiro](#contratos-de-compras-do-estado-do-rio-de-janeiro)
 
 <!-- tocstop -->
 
