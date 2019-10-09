@@ -12,6 +12,15 @@ Dados sobre orçamento, contratações e gastos do estado e dos municípios do R
    * [Receitas da Prefeitura do Rio de Janeiro](#receitas-da-prefeitura-do-rio-de-janeiro)
    * [Parcerias voluntárias da Prefeitura do Rio de Janeiro](#parcerias-voluntárias-da-prefeitura-do-rio-de-janeiro)
 
+
+- [Municípios do Rio de Janeiro (fora a capital)](#Municípios-do-Rio-de-Janeiro-(fora-a-capital-))
+   * [Contratos](#contratos)
+   * [Aditivos em Contratos](#Aditivos-em-Contratos)
+   * [Despesas por ato Prefeitura do Rio de Janeiro](#despesas-por-ato-da-prefeitura-do-rio-de-janeiro)
+   * [Favorecidos por gastos da Prefeitura do Rio de Janeiro](#favorecidos-por-gastos-da-prefeitura-do-rio-de-janeiro)
+   * [Receitas da Prefeitura do Rio de Janeiro](#receitas-da-prefeitura-do-rio-de-janeiro)
+   * [Parcerias voluntárias da Prefeitura do Rio de Janeiro](#parcerias-voluntárias-da-prefeitura-do-rio-de-janeiro)
+
 - [Estado do Rio de Janeiro](#estado-do-rio-de-janeiro)
    * [Compras Públicas do Estado do Rio de Janeiro](#compras-públicas-do-estado-do-rio-de-janeiro)
    * [Fornecedores do Estado do Rio de Janeiro](#fornecedores-de-compras-do-estado-do-rio-de-janeiro)
@@ -128,6 +137,87 @@ Dados sobre orçamento, contratações e gastos do estado e dos municípios do R
 **Separador decimal** | , |
 **URL** | <http://riotransparente.rio/MaisTransp/resposta1Export.asp?especie=&tipoExportacao=csv> |
 
+
+## Municípios do Rio de Janeiro (fora a capital)
+
+### Contratos
+
+?    |  !  |
+ --- | --- |
+**Conjunto de dados** | Contratos compras de públicas realizadas por municípios fora capital |
+**Entidade de referência** | Municípios do estado do Rio de Janeiro - exceto a capital |
+**Órgão responsável pelos dados** | Secretaria-Geral de Controle Externo do Tribunal de Contas do Estado do Rio de Janeiro |
+**Período de referência** | 2018-01-01 - Atual |
+**Formato** | .xlsx |
+**Tamanho aproximado em disco** | 5 MB |
+**Codificação** | UTF-8 |
+**Caractere separador** | ; |
+**Separador decimal** | , |
+**URL** | [Contratos](https://mprj.sharepoint.com/:x:/s/Inova/Ecuih8aca8JFloQzSfQHWkoBNkXat2K8nXXPnNm_sx8NFA?rtime=V8nPQOdM10g) |
+
+
+### Aditivos em Contratos
+
+?    |  !  |
+ --- | --- |
+**Conjunto de dados** | Aditivos em Contratos de compras públicas realizadas por municípios fora capital |
+**Entidade de referência** | Municípios do estado do Rio de Janeiro - exceto a capital |
+**Órgão responsável pelos dados** | Secretaria-Geral de Controle Externo do Tribunal de Contas do Estado do Rio de Janeiro |
+**Período de referência** | 2018-01-01 - Atual |
+**Formato** | .xlsx |
+**Tamanho aproximado em disco** | 500KB |
+**Codificação** | UTF-8 |
+**Caractere separador** | ; |
+**Separador decimal** | , |
+**URL** | [Aditivos](https://mprj.sharepoint.com/:x:/s/Inova/Ebph26zm_6RGhMxPWPAscFwBI6w2nGRrJGGQh69LrchAYA?rtime=vCdoqOtM10g) |
+
+
+### Dotações Orçamentárias
+
+?    |  !  |
+ --- | --- |
+**Conjunto de dados** | Dotações orçamentárias de compras públicas realizadas por municípios fora capital |
+**Entidade de referência** | Municípios do estado do Rio de Janeiro - exceto a capital |
+**Órgão responsável pelos dados** | Secretaria-Geral de Controle Externo do Tribunal de Contas do Estado do Rio de Janeiro |
+**Período de referência** | 2018-01-01 - Atual |
+**Formato** | .xlsx |
+**Tamanho aproximado em disco** | 15MB |
+**Codificação** | UTF-8 |
+**Caractere separador** | ; |
+**Separador decimal** | , |
+**URL** | [Dotações](https://mprj.sharepoint.com/:x:/s/Inova/EU_AeKBAGQ5CrTYoR7AXRboBJorVKXPAd8uI2664MFe-pQ?rtime=8kJulexM10g) |
+
+
+### Alterações em relação ao orçamento aprovado
+
+?    |  !  |
+ --- | --- |
+**Conjunto de dados** | Alterações em relação ao orçamento aprovado de compras públicas realizadas por municípios fora capital |
+**Entidade de referência** | Municípios do estado do Rio de Janeiro - exceto a capital |
+**Órgão responsável pelos dados** | Secretaria-Geral de Controle Externo do Tribunal de Contas do Estado do Rio de Janeiro |
+**Período de referência** | 2018-01-01 - Atual |
+**Formato** | .xlsx |
+**Tamanho aproximado em disco** | 19MB |
+**Codificação** | UTF-8 |
+**Caractere separador** | ; |
+**Separador decimal** | , |
+**URL** | [Alterações](https://mprj.sharepoint.com/:x:/s/Inova/ERRUjtkRAVlIj-gSXNREoUIBiluM3rxPOBf8qvAHl9IKDA?rtime=35Vz4uxM10g) |
+
+
+### Execução orçamentária
+
+?    |  !  |
+ --- | --- |
+**Conjunto de dados** | Execução orçamentária de compras públicas realizadas por municípios fora capital |
+**Entidade de referência** | Municípios do estado do Rio de Janeiro - exceto a capital |
+**Órgão responsável pelos dados** | Secretaria-Geral de Controle Externo do Tribunal de Contas do Estado do Rio de Janeiro |
+**Período de referência** | 2018-01-01 - Atual |
+**Formato** | .zip/.xlsx |
+**Tamanho aproximado em disco** | 115MB |
+**Codificação** | UTF-8 |
+**Caractere separador** | ; |
+**Separador decimal** | , |
+**URL** | [Execução orçamentária](https://mprj.sharepoint.com/sites/Inova/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2FInova%2FDocumentos%20Compartilhados%2FGeneral%2FProjetos%2FHackfest%2FBase%20de%20dados%2FTCE%2FExecucaoOrcamentaria%2Ezip&parent=%2Fsites%2FInova%2FDocumentos%20Compartilhados%2FGeneral%2FProjetos%2FHackfest%2FBase%20de%20dados%2FTCE&p=true&originalPath=aHR0cHM6Ly9tcHJqLnNoYXJlcG9pbnQuY29tLzp1Oi9zL0lub3ZhL0VlN1p0YVZaRUdCSnFfNjlyQkZzem4wQjlZcXJra2VJanB5MWNGSlFRY0Q2WEE_cnRpbWU9X1B1ZXNlMU0xMGc) |
 
 ## Estado do Rio de Janeiro
 
