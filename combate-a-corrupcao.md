@@ -13,6 +13,10 @@ Dados sobre combate a corrupção em âmbito nacional
    * [Operações Especiais](#operações-especiais)
    * [Sistema de Gestão de Procedimentos de Responsabilização de Entes Privados](#sistema-de-gestão-de-procedimentos-de-responsabilização-de-entes-privados)
 
+- [Estado do Rio de Janeiro](#estado-do-rio-de-janeiro)
+   * [Relatório agregado do Sistema RadarRJ](#Relatório-agregado-do-Sistema-RadarRJ)
+   * [Fornecedores do Estado do Rio de Janeiro](#fornecedores-de-compras-do-estado-do-rio-de-janeiro)
+   * [Contratos do Estado do Rio de Janeiro](#contratos-de-compras-do-estado-do-rio-de-janeiro)
 
 <!-- tocstop -->
 
@@ -140,5 +144,20 @@ Dados sobre combate a corrupção em âmbito nacional
 **Separador decimal** | , |
 **URL** | [Sistema de Gestão](https://esic.cgu.gov.br/sistema/arquivosRelatorios/Arquivos_Dados_Abertos/cgupj/CGUPJ_20191001.csv) |
 
+## Estado do Rio de Janeiro
+
+### Relatório agregado do Sistema RadarRJ
+
+?    |  !  |
+ --- | --- |
+**Conjunto de dados** | Relatório agregado do MPRJ. |
+**Entidade de referência** | Ministério Público do Estado do Rio de Janeiro |
+**Órgão responsável pelos dados** | Grupo de Apoio Técnico Especializado |
+**Período de referência** | 2005-01-01 - Atual |
+**Formato** | .csv |
+**Tamanho aproximado em disco** | 25KB |
+**Codificação** | UTF-8 |
+**Caractere separador** | , |
+**URL** | [Radar](https://github.com/mp-rj/dados-hackfestcc/blob/temp/etc/MPRJ_RadarRJ.csv) |
 
 ---
