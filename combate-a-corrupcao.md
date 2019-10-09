@@ -4,13 +4,14 @@ Dados sobre combate a corrupção em âmbito nacional
 
 <!-- toc -->
 
-- [Município do Rio de Janeiro](#município-do-rio-de-janeiro)
-   * [Contratos da Prefeitura do Rio de Janeiro](#contratos-da-prefeitura-do-rio-de-janeiro)
-   * [Despesas da Prefeitura do Rio de Janeiro](#despesas-da-prefeitura-do-rio-de-janeiro)
-   * [Despesas por ato Prefeitura do Rio de Janeiro](#despesas-por-ato-prefeitura-do-rio-de-janeiro)
-   * [Favorecidos por gastos da Prefeitura do Rio de Janeiro](#favorecidos-por-gastos-da-prefeitura-do-rio-de-janeiro)
-   * [Receitas da Prefeitura do Rio de Janeiro](#receitas-da-prefeitura-do-rio-de-janeiro)
-   * [Parcerias voluntárias da Prefeitura do Rio de Janeiro](#parcerias-voluntárias-da-prefeitura-do-rio-de-janeiro)
+- [Âmbito Nacional](#âmbito-nacional)
+   * [Entidades sem Fins Lucrativos Impedidas](#entidades-sem-fins-lucrativos-impedidas)
+   * [Acordos de Leniência](#acordos-de-leniência)
+   * [Cadastro de Expulsões da Administração Federal](#cadastro-de-expulsões-da-administração-federal)
+   * [Empresas Punidas](#empresas-punidas)
+   * [Cadastro Nacional de Empresas Inidôneas e Suspensas](#cadastro-nacional-de-empresas-inidôneas-e-suspensas)
+   * [Operações Especiais](#operações-especiais)
+   * [Sistema de Gestão de Procedimentos de Responsabilização de Entes Privados](#sistema-de-gestão-de-procedimentos-de-responsabilização-de-entes-privados)
 
 
 <!-- tocstop -->
