@@ -33,6 +33,7 @@ Dados sobre combate a corrupção em âmbito nacional
 **Tamanho aproximado em disco** | 1 MB |
 **Codificação** | UTF-8 |
 **Caractere separador** | ; |
+**Dica** | Extrair os arquivos com algum programa próprio. Por exemplo o WinRar |
 **URL** | [Entidades](http://transparencia.gov.br/download-de-dados/cepim/20191007) |
 
 
@@ -50,6 +51,7 @@ Dados sobre combate a corrupção em âmbito nacional
 **Codificação** | UTF-8 |
 **Caractere separador** | ; |
 **Separador decimal** | , |
+**Dica** | Extrair os arquivos com algum programa próprio. Por exemplo o WinRar |
 **URL** | [Acordos](http://transparencia.gov.br/download-de-dados/acordos-leniencia/20190930) |
 
 
@@ -67,6 +69,7 @@ Dados sobre combate a corrupção em âmbito nacional
 **Codificação** | UTF-8 |
 **Caractere separador** | ; |
 **Separador decimal** | , |
+**Dica** | Extrair os arquivos com algum programa próprio. Por exemplo o WinRar |
 **URL** | [Cadastro de Expulsões](http://transparencia.gov.br/download-de-dados/ceaf/20191007) |
 
 
@@ -84,6 +87,7 @@ Dados sobre combate a corrupção em âmbito nacional
 **Codificação** | UTF-8 |
 **Caractere separador** | ; |
 **Separador decimal** | , |
+**Dica** | Extrair os arquivos com algum programa próprio. Por exemplo o WinRar |
 **URL** | [Cadastro de Expulsões](http://transparencia.gov.br/download-de-dados/ceaf/20191007) |
 
 
@@ -101,6 +105,7 @@ Dados sobre combate a corrupção em âmbito nacional
 **Codificação** | UTF-8 |
 **Caractere separador** | ; |
 **Separador decimal** | , |
+**Dica** | Extrair os arquivos com algum programa próprio. Por exemplo o WinRar |
 **URL** | [Empresas Inidôneas](http://transparencia.gov.br/download-de-dados/ceis/20191009) |
 
 
