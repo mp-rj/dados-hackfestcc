@@ -16,10 +16,9 @@ Dados sobre orçamento, contratações e gastos do estado e dos municípios do R
 - [Municípios do Rio de Janeiro (fora a capital)](#Municípios-do-Rio-de-Janeiro-(fora-a-capital-))
    * [Contratos](#contratos)
    * [Aditivos em Contratos](#Aditivos-em-Contratos)
-   * [Despesas por ato Prefeitura do Rio de Janeiro](#despesas-por-ato-da-prefeitura-do-rio-de-janeiro)
-   * [Favorecidos por gastos da Prefeitura do Rio de Janeiro](#favorecidos-por-gastos-da-prefeitura-do-rio-de-janeiro)
-   * [Receitas da Prefeitura do Rio de Janeiro](#receitas-da-prefeitura-do-rio-de-janeiro)
-   * [Parcerias voluntárias da Prefeitura do Rio de Janeiro](#parcerias-voluntárias-da-prefeitura-do-rio-de-janeiro)
+   * [Dotações Orçamentárias](#Dotações-Orçamentárias)
+   * [Alterações em relação ao orçamento aprovado](#Alterações-em-relação-ao-orçamento-aprovado)
+   * [Execução orçamentária](#Execução-orçamentária)
 
 - [Estado do Rio de Janeiro](#estado-do-rio-de-janeiro)
    * [Compras Públicas do Estado do Rio de Janeiro](#compras-públicas-do-estado-do-rio-de-janeiro)
