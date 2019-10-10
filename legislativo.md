@@ -60,3 +60,17 @@ Dados sobre produção legislativa e gastos dos parlamentares brasileiros.
  **Delimitador de texto** | "" |
  **Indicação de dado faltante** | *[caractere vazio]* |
  **URL** | <https://dadosabertos.camara.leg.br/swagger/api.html#staticfile>  |
+
+
+### Relação dos Deputados Federais com o Meio Ambiente e Ruralismo
+
+?    | ! |
+ --- | --|
+ **Conjunto de dados** | Relações com Ambientalismo e Ruralismo na câmara |
+ **Entidade de referência** | Câmara dos Deputados |
+ **Órgão responsável pelos dados** | Dado Capital (www.vozativa.org) |
+ **Período de referência** | 2014-01-01 - Atual |
+ **Formato** | vários arquivos csv |
+ **Tamanho aproximado em disco** | pequeno |
+ **Codificação** | UTF-8 |
+**URL** | <https://docs.google.com/document/d/1YL706FYJbmFHnG0sw5NDD2SPk91dHeHHUeQrzbT5K8o/edit#>  |
