@@ -33,8 +33,6 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
   * [Pedidos e Respostas do e-SIC](#pedidos-e-respostas-do-e-sic)
   * [Webservice do e-OUV](#webservice-do-e-ouv)
   * [Relatórios da CGU](#relatórios-da-cgu)
-  * [Cadastro de Entidades sem Fins Lucrativos Impedidas (CEPIM)](#cadastro-de-entidades-sem-fins-lucrativos-impedidas-cepim)
-  * [Cadastro Nacional de Empresas Punidas (CNEP)](#cadastro-nacional-de-empresas-punidas-cnep)
   * [Dados sistematizados sobre parlamentares, seus gastos, parentes, empresas onde eles gastaram e discursos](#dados-sistematizados-sobre-parlamentares-seus-gastos-parentes-empresas-onde-eles-gastaram-e-discursos)
 - [Contribua!](#contribuindo)
 
@@ -206,26 +204,6 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
 *O que é* | Empresas e pessoas físicas que sofreram sanções pelos órgãos e entidades da administração pública das diversas esferas federativas. |
 *Formato* | csv |
 *Url*     | http://www.portaldatransparencia.gov.br/downloads/snapshot.asp?c=CEIS |
-*Dicas*   |  |
-*Projetos usando* |  |
-
----
-
-### Cadastro de Entidades sem Fins Lucrativos Impedidas (CEPIM)
-?    | ! |
- --- | --|
-*O que é* | Entidades privadas sem fins lucrativos que estão impedidas de celebrar convênios, contratos de repasse ou termos de parceria com a administração pública federal |
-*Formato* | csv |
-*Url*     | http://www.portaldatransparencia.gov.br/downloads/snapshot.asp?c=CEPIM |
-*Dicas*   |  |
-*Projetos usando* |  |
-
-### Cadastro Nacional de Empresas Punidas (CNEP)
-?    | ! |
- --- | --|
-*O que é* | Empresas que sofreram sanções previstas pela Lei nº 12.846/2013 (Lei Anticorrupção). As informações abrangem órgãos e entidades da administração pública das esferas federal, estadual e municipal. |
-*Formato* | csv |
-*Url*     | http://www.portaldatransparencia.gov.br/downloads/snapshot.asp?c=CNEP |
 *Dicas*   |  |
 *Projetos usando* |  |
 
