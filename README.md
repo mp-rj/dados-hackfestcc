@@ -10,7 +10,6 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
 - [Dados sobre o Poder Legislativo](https://github.com/mp-rj/dados-hackfestcc/blob/master/legislativo.md)
 - [Dados sobre orçamento, contratações e gastos públicos](https://github.com/mp-rj/dados-hackfestcc/blob/master/orcamento-publico.md)
 - [Outros dados](https://github.com/mp-rj/dados-hackfestcc/blob/master/outros.md)
-- [Cadastro de Empresas Inidôneas e Suspensas (CEIS)](#cadastro-de-empresas-inidôneas-e-suspensas-ceis)
 
 
 - [Contribua!](#contribuindo)
