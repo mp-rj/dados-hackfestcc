@@ -10,6 +10,7 @@ Outros dados de diferentes categorias
    * [Viagens a Serviço no Governo Federal](#Viagens-a-Serviço-no-Governo-Federal)
    * [Estatísticas do e-Ouv](#Estatísticas-do-e-Ouv)
    * [Escala Brasil Transparente](#Escala-Brasil-Transparente)
+   * [Dados públicos CNPJ](#Dados-públicos-CNPJ)
 
 
 <!-- tocstop -->
