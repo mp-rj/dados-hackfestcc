@@ -1,21 +1,26 @@
 # Dados úteis para o Hackfest Contra a Corrupção
 
-Uma lista não exaustiva mas útil de dados que já usamos ou vimos que é viável usar em edições passadas do Hackfest Contra a Corrupção.
+Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é viável usar em edições passadas do Hackfest Contra a Corrupção.
 
 <!-- toc -->
 
+- [Dadods sobre combate a corrupção](https://github.com/mp-rj/dados-hackfestcc/blob/master/combate-a-corrupcao.md)
+- [Dadods sobre eleições realizadas](https://github.com/mp-rj/dados-hackfestcc/blob/master/eleicoes.md)
+- [Dadods sobre o Poder Legislativo](https://github.com/mp-rj/dados-hackfestcc/blob/master/legislativo.md)
+- [Dados sobre orçamento, contratações e gastos públicos](https://github.com/mp-rj/dados-hackfestcc/blob/master/orcamento-publico.md)
+- [Outros dados](https://github.com/mp-rj/dados-hackfestcc/blob/master/outros.md)
+
+
+
 - [Prontos e já usados](#prontos-e-já-usados)
   * [Localização de empresas (CNPJ e CEP)](#localização-de-empresas-cnpj-e-cep)
-  * [Informações Municípios da Paraíba](#informações-municípios-da-paraíba)
-  * [Site oficial de dados abertos do TCE-PB](#site-oficial-de-dados-abertos-do-tce-pb)
   * [Presenças, votações e votos dos deputados federais na câmara](#presenças-votações-e-votos-dos-deputados-federais-na-câmara)
   * [Discursos dos deputados federais na câmara](#discursos-dos-deputados-federais-na-câmara)
   * [Gastos da Cota para Exercício da Atividade Parlamentar dos deputados federais](#gastos-da-cota-para-exercício-da-atividade-parlamentar-dos-deputados-federais)
-  * [Dados das empresas que prestaram serviço ao poder público na PB](#dados-das-empresas-que-prestaram-serviço-ao-poder-público-na-pb)
   * [Candidatos, seus bens e as doações que eles receberam nas eleições de 2012, 2014 e 2016](#candidatos-seus-bens-e-as-doações-que-eles-receberam-nas-eleições-de-2012-2014-e-2016)
   * [SICONV: uso de verba do governo federal por municípios e estados (e universidades, institutos, ...) via convênios](#siconv-uso-de-verba-do-governo-federal-por-municípios-e-estados-e-universidades-institutos--via-convênios)
-  * [Prefeitos da PB com contas julgadas irregulares entre 2008 e 2016 pelo TCE-PB](#prefeitos-da-pb-com-contas-julgadas-irregulares-entre-2008-e-2016-pelo-tce-pb)
-  * [Proposituras da Câmara Municipal de Campina Grande, PB](#proposituras-da-câmara-municipal-de-campina-grande-pb)
+
+
 - [Aparentemente prontos, mas não foram usados por nós](#aparentemente-prontos-mas-não-foram-usados-por-nós)
   * [Nuvem Cívica](#nuvem-cívica)
   * [Dados abertos da prefeitura de João Pessoa](#dados-abertos-da-prefeitura-de-joão-pessoa)
