@@ -39,6 +39,7 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
 <!-- tocstop -->
 
 ---
+---
 
 ## Prontos e já usados
 
