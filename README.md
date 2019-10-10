@@ -6,8 +6,8 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
 
 
 - [Dados sobre combate a corrupção](https://github.com/mp-rj/dados-hackfestcc/blob/master/combate-a-corrupcao.md)
-- [Dadods sobre eleições realizadas](https://github.com/mp-rj/dados-hackfestcc/blob/master/eleicoes.md)
-- [Dadods sobre o Poder Legislativo](https://github.com/mp-rj/dados-hackfestcc/blob/master/legislativo.md)
+- [Dados sobre eleições realizadas](https://github.com/mp-rj/dados-hackfestcc/blob/master/eleicoes.md)
+- [Dados sobre o Poder Legislativo](https://github.com/mp-rj/dados-hackfestcc/blob/master/legislativo.md)
 - [Dados sobre orçamento, contratações e gastos públicos](https://github.com/mp-rj/dados-hackfestcc/blob/master/orcamento-publico.md)
 - [Outros dados](https://github.com/mp-rj/dados-hackfestcc/blob/master/outros.md)
 - [Cadastro de Empresas Inidôneas e Suspensas (CEIS)](#cadastro-de-empresas-inidôneas-e-suspensas-ceis)
@@ -38,8 +38,7 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
   * [Dados sistematizados sobre parlamentares, seus gastos, parentes, empresas onde eles gastaram e discursos](#dados-sistematizados-sobre-parlamentares-seus-gastos-parentes-empresas-onde-eles-gastaram-e-discursos)
   * [Dados abertos do governo do Estado da PB](#dados-abertos-do-governo-do-estado-da-pb)
 - [Possíveis e interessantes](#possíveis-e-interessantes)
-  * [Atividade dos vereadores em João Pessoa, PB](#atividade-dos-vereadores-em-joão-pessoa-pb)
-- [Contribuindo](#contribuindo)
+- [Contribua!](#contribuindo)
 
 <!-- tocstop -->
 
