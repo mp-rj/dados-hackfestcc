@@ -142,6 +142,22 @@ Dados sobre combate a corrupção em âmbito nacional
 **Separador decimal** | , |
 **URL** | [Sistema de Gestão](https://esic.cgu.gov.br/sistema/arquivosRelatorios/Arquivos_Dados_Abertos/cgupj/CGUPJ_20191001.csv) |
 
+### Informações do CNPJ da Receita Federal
+
+?    |  !  |
+ --- | --- |
+**Conjunto de dados** | Base de dados constituída a partir das informações da receita federal acerca das 
+empresas cadastradas. |
+**Entidade de referência** | Governo Federal |
+**Órgão responsável pelos dados** | Receita Federal |
+**Período de referência** | ? - Atual |
+**Formato** | json |
+**Tamanho aproximado em disco** | 30Gb |
+**Codificação** | UTF-8 |
+**Caractere separador** | , |
+**Separador decimal** | . |
+**URL** | [Link do repositório](https://github.com/cuducos/minha-receita) |
+
 ## Estado do Rio de Janeiro
 
 ### Relatório agregado do Sistema RadarRJ
