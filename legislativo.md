@@ -9,6 +9,8 @@ Dados sobre produção legislativa e gastos dos parlamentares brasileiros.
   * [Discursos dos deputados federais na câmara](#discursos-dos-deputados-federais-na-câmara)
   * [Gastos da Cota para Exercício da Atividade Parlamentar dos deputados federais](#gastos-da-cota-para-exercício-da-atividade-parlamentar-dos-deputados-federais)
   * [Relação dos Deputados Federais com o Meio Ambiente e Ruralismo](#relação-dos-deputados-federais-com-o-meio-ambiente-e-ruralismo)
+  * [Empresas que pertencem a Deputados](#empresas-que-pertencem-a-deputados)
+  * [Empresas cujos sócios doaram a campanhas em 2018](#empresas-cujos-sócios-doaram-a-campanhas-em-2018)
 
 
 <!-- tocstop -->
@@ -75,3 +77,34 @@ Dados sobre produção legislativa e gastos dos parlamentares brasileiros.
  **Tamanho aproximado em disco** | pequeno |
  **Codificação** | UTF-8 |
 **URL** | [arquivo com links para os csvs](https://docs.google.com/document/d/1YL706FYJbmFHnG0sw5NDD2SPk91dHeHHUeQrzbT5K8o)  |
+
+
+### Empresas que pertencem a Deputados
+
+Inclui as empresas e seu setor de atividade econômica. Mais documentação [nesse README](https://github.com/analytics-ufcg/vozativa-dados/blob/sprint-15/parlametria/raw_data/empresas/README.md).
+
+?    | ! |
+ --- | --|
+ **Conjunto de dados** | Empresas que pertencem a Deputados |
+ **Entidade de referência** | Câmara dos Deputados |
+ **Órgão responsável pelos dados** | Dado Capital (www.vozativa.org) |
+ **Período de referência** | 2019-01-01 - Atual |
+ **Formato** | csv |
+ **Tamanho aproximado em disco** | pequeno |
+ **Codificação** | UTF-8 |
+**URL** | [arquivo](https://github.com/analytics-ufcg/vozativa-dados/blob/master/crawler/raw_data/empresas_gerais_parlamentares_2018.csv)  |
+
+### Empresas cujos sócios doaram a campanhas em 2018
+
+Inclui as empresas e seu setor de atividade econômica. Mais documentação [nesse README](https://github.com/analytics-ufcg/vozativa-dados/blob/sprint-15/parlametria/raw_data/empresas/README.md).
+
+?    | ! |
+ --- | --|
+ **Conjunto de dados** | Empresas cujos sócios doaram a campanhas em 2018 |
+ **Entidade de referência** | Câmara dos Deputados |
+ **Órgão responsável pelos dados** | Dado Capital (www.vozativa.org) |
+ **Período de referência** | 2019-01-01 - Atual |
+ **Formato** | csv |
+ **Tamanho aproximado em disco** | pequeno |
+ **Codificação** | UTF-8 |
+**URL** | [arquivo](https://github.com/analytics-ufcg/vozativa-dados/blob/master/crawler/raw_data/empresas_gerais_doadores_2018.csv) |
