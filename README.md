@@ -9,10 +9,11 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
 - [Dadods sobre o Poder Legislativo](https://github.com/mp-rj/dados-hackfestcc/blob/master/legislativo.md)
 - [Dados sobre orçamento, contratações e gastos públicos](https://github.com/mp-rj/dados-hackfestcc/blob/master/orcamento-publico.md)
 - [Outros dados](https://github.com/mp-rj/dados-hackfestcc/blob/master/outros.md)
+- [Cadastro de Empresas Inidôneas e Suspensas (CEIS)](#cadastro-de-empresas-inidôneas-e-suspensas-ceis)
 
 
 
-- [Prontos e já usados](#prontos-e-já-usados)
+##[Prontos e já usados](#prontos-e-já-usados)
   * [Localização de empresas (CNPJ e CEP)](#localização-de-empresas-cnpj-e-cep)
   * [Presenças, votações e votos dos deputados federais na câmara](#presenças-votações-e-votos-dos-deputados-federais-na-câmara)
   * [Discursos dos deputados federais na câmara](#discursos-dos-deputados-federais-na-câmara)
@@ -21,9 +22,8 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
   * [SICONV: uso de verba do governo federal por municípios e estados (e universidades, institutos, ...) via convênios](#siconv-uso-de-verba-do-governo-federal-por-municípios-e-estados-e-universidades-institutos--via-convênios)
 
 
-- [Aparentemente prontos, mas não foram usados por nós](#aparentemente-prontos-mas-não-foram-usados-por-nós)
+##[Aparentemente prontos, mas não foram usados por nós](#aparentemente-prontos-mas-não-foram-usados-por-nós)
   * [Nuvem Cívica](#nuvem-cívica)
-  * [Dados abertos da prefeitura de João Pessoa](#dados-abertos-da-prefeitura-de-joão-pessoa)
   * [Despesas – Transferências para Estados, Municípios ou entidades privadas – Portal da Transparência](#despesas--transferências-para-estados-municípios-ou-entidades-privadas--portal-da-transparência)
   * [Despesas – Gastos Diretos do Governo Federal – Portal da Transparência](#despesas--gastos-diretos-do-governo-federal--portal-da-transparência)
   * [Servidores Civis e Militares do Executivo Federal](#servidores-civis-e-militares-do-executivo-federal)
@@ -32,7 +32,6 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
   * [Pedidos e Respostas do e-SIC](#pedidos-e-respostas-do-e-sic)
   * [Webservice do e-OUV](#webservice-do-e-ouv)
   * [Relatórios da CGU](#relatórios-da-cgu)
-  * [Cadastro de Empresas Inidôneas e Suspensas (CEIS)](#cadastro-de-empresas-inidôneas-e-suspensas-ceis)
   * [Cadastro de Entidades sem Fins Lucrativos Impedidas (CEPIM)](#cadastro-de-entidades-sem-fins-lucrativos-impedidas-cepim)
   * [Cadastro Nacional de Empresas Punidas (CNEP)](#cadastro-nacional-de-empresas-punidas-cnep)
   * [Dados sistematizados sobre parlamentares, seus gastos, parentes, empresas onde eles gastaram e discursos](#dados-sistematizados-sobre-parlamentares-seus-gastos-parentes-empresas-onde-eles-gastaram-e-discursos)
