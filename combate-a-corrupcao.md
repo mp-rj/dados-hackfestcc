@@ -12,6 +12,7 @@ Dados sobre combate a corrupção em âmbito nacional
    * [Cadastro Nacional de Empresas Inidôneas e Suspensas](#cadastro-nacional-de-empresas-inidôneas-e-suspensas)
    * [Operações Especiais](#operações-especiais)
    * [Sistema de Gestão de Procedimentos de Responsabilização de Entes Privados](#sistema-de-gestão-de-procedimentos-de-responsabilização-de-entes-privados)
+   * [Empresas Cadastradas na Receita Federal](#informações-do-cnpj-da-receita-federal)
 
 - [Estado do Rio de Janeiro](#estado-do-rio-de-janeiro)
    * [Relatório agregado do Sistema RadarRJ](#Relatório-agregado-do-Sistema-RadarRJ)
