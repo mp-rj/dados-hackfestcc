@@ -13,6 +13,10 @@ Outros dados de diferentes categorias
    * [Dados públicos CNPJ](#Dados-públicos-CNPJ)
 
 
+- [Estado do Rio de Janeiro](#Estado-Do-Rio-De-Janeiro)
+   * [MP Em Mapas](#MP-em-Mapas)
+
+
 <!-- tocstop -->
 
 ---
@@ -117,5 +121,21 @@ Outros dados de diferentes categorias
 **Separador decimal** | , |
 **Dica** | Basta ir fazendo o download dos arquivos de Dados Abertos CNPJ, no total são 20. Para extraí-los, usar programa como WinRar. |
 **URL** | [Lista de CNPJ](https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-publicos-cnpj)<br>[Layout](http://200.152.38.155/CNPJ/LAYOUT_DADOS_ABERTOS_CNPJ.pdf)<br>[Motivo Situação Cadastral](https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/DominiosMotivoSituaoCadastral.csv)<br>[Qualificação do Responsável](https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/DominiosQualificaodoresponsvel.csv)<br>[Tabela de Municípios](https://github.com/mp-rj/dados-hackfestcc/blob/master/etc/tabela_municipios.csv) |
+
+
+
+## Estado do Rio de Janeiro
+
+### MP em Mapas
+
+?    |  !  |
+ --- | --- |
+**Conjunto de dados** | O InLoco é uma plataforma de mapas interativos criada pelo Ministério Público do Estado do Rio de Janeiro, permitindo ao usuário visualizar e sobrepor dados geográficos de diversos assuntos, realizar buscas e dispor de diversas informações. |
+**Órgão responsável pelos dados** | Ministério Público do Estado do Rio de Janeiro |
+**URL** | <http://apps.mprj.mp.br/sistema/inloco/> |
+
+
+
+
 
 ---
