@@ -36,7 +36,6 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
   * [Cadastro de Entidades sem Fins Lucrativos Impedidas (CEPIM)](#cadastro-de-entidades-sem-fins-lucrativos-impedidas-cepim)
   * [Cadastro Nacional de Empresas Punidas (CNEP)](#cadastro-nacional-de-empresas-punidas-cnep)
   * [Dados sistematizados sobre parlamentares, seus gastos, parentes, empresas onde eles gastaram e discursos](#dados-sistematizados-sobre-parlamentares-seus-gastos-parentes-empresas-onde-eles-gastaram-e-discursos)
-  * [Dados abertos do governo do Estado da PB](#dados-abertos-do-governo-do-estado-da-pb)
 - [Contribua!](#contribuindo)
 
 <!-- tocstop -->
@@ -109,18 +108,6 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
 *Formato* | API REST (json) |
 *Url*     | https://github.com/AppCivicoPlataforma/AppCivico |
 *Dicas*   | Tem informações georreferênciadas sobre escolas e estabelecimentos de saúde públicos/privados do país (coletados através do DATA SUS e INEP). Há tembém informações sobre os remédios fabricados no Brasil (ANVISA). Além disso, há API para consulta de postos do Site Nacional de Empregos (SINE)|
-*Projetos usando* |  |
-
----
-
-
-### Dados abertos da prefeitura de João Pessoa
-?    | ! |
- --- | --|
-*O que é* | Dados sobre pessoal, licitações, convênios, verba de publicidade e despesas/receitas da prefeitura. |
-*Formato* | csvs ou sql |
-*Url*     | http://transparencia.joaopessoa.pb.gov.br/download  |
-*Dicas*   | Tem dados sobre pessoal na folha de pagamento da prefeitura, o que não é comum. |
 *Projetos usando* |  |
 
 ---
