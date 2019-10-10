@@ -4,7 +4,8 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
 
 <!-- toc -->
 
-- [Dadods sobre combate a corrupção](https://github.com/mp-rj/dados-hackfestcc/blob/master/combate-a-corrupcao.md)
+
+- [Dados sobre combate a corrupção](https://github.com/mp-rj/dados-hackfestcc/blob/master/combate-a-corrupcao.md)
 - [Dadods sobre eleições realizadas](https://github.com/mp-rj/dados-hackfestcc/blob/master/eleicoes.md)
 - [Dadods sobre o Poder Legislativo](https://github.com/mp-rj/dados-hackfestcc/blob/master/legislativo.md)
 - [Dados sobre orçamento, contratações e gastos públicos](https://github.com/mp-rj/dados-hackfestcc/blob/master/orcamento-publico.md)
@@ -13,7 +14,7 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
 
 
 
-##[Prontos e já usados](#prontos-e-já-usados)
+[Prontos e já usados](#prontos-e-já-usados)
   * [Localização de empresas (CNPJ e CEP)](#localização-de-empresas-cnpj-e-cep)
   * [Presenças, votações e votos dos deputados federais na câmara](#presenças-votações-e-votos-dos-deputados-federais-na-câmara)
   * [Discursos dos deputados federais na câmara](#discursos-dos-deputados-federais-na-câmara)
@@ -22,7 +23,7 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
   * [SICONV: uso de verba do governo federal por municípios e estados (e universidades, institutos, ...) via convênios](#siconv-uso-de-verba-do-governo-federal-por-municípios-e-estados-e-universidades-institutos--via-convênios)
 
 
-##[Aparentemente prontos, mas não foram usados por nós](#aparentemente-prontos-mas-não-foram-usados-por-nós)
+[Aparentemente prontos, mas não foram usados por nós](#aparentemente-prontos-mas-não-foram-usados-por-nós)
   * [Nuvem Cívica](#nuvem-cívica)
   * [Despesas – Transferências para Estados, Municípios ou entidades privadas – Portal da Transparência](#despesas--transferências-para-estados-municípios-ou-entidades-privadas--portal-da-transparência)
   * [Despesas – Gastos Diretos do Governo Federal – Portal da Transparência](#despesas--gastos-diretos-do-governo-federal--portal-da-transparência)
@@ -98,28 +99,6 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
 *Url*     | http://portal.convenios.gov.br/download-de-dados  |
 *Dicas*   | Há um MER na página. Os csvs são atualizados diariamente. Esses csvs são mais completos que a API de convênios. Prestação de contas rejeitada é sinal de que o convênio não foi executado corretamente. Deputados alocam verbas via emendas parlamentares que acabam sendo executadas como convênios. |
 *Projetos usando* | [As Diferentonas](https://github.com/nazareno/diferentonas-server/), [Na emenda dos deputados](https://github.com/CelioBarros/NaEmendaDeputado), Quase todos [os apps que participaram do hackathon do MJ](https://github.com/LabPi) |
-
----
-
-### Prefeitos da PB com contas julgadas irregulares entre 2008 e 2016 pelo TCE-PB
-?    | ! |
- --- | --|
-*O que é* | Lista dos gestores que tiveram sua prestação de contas anual rejeitada pelo Tribunal de Contas do Estado, que fiscaliza as contas dos municípios e do Estado da PB. |
-*Formato* | csv |
-*Url*     | [Neste link](etc/contas-irregulares-segundo-TCE.csv) |
-*Dicas*   | Tem dados sobre pessoal na folha de pagamento da prefeitura, o que não é comum. |
-*Projetos usando* |  |
-
----
-
-### Proposituras da Câmara Municipal de Campina Grande, PB
-?    | ! |
- --- | --|
-*O que é* | Dados sobre proposituras dos vereadores, incluindo o que foi proposto, a categoria da propositura, o tema e alguns dados demográficos dos vereadores.  |
-*Formato* | Banco postgres + crawler |
-*Url*     | Os dados estão [nesse repo](https://github.com/augustoqm/cg-insights-data) e o crawler [nesse outro](https://github.com/augustoqm/cg-insights-data-gen)  |
-*Dicas*   | Os dados não são abertos, mas estão públicos. O crawler e abordagem devem ser facilmente adaptáveis para outras câmaras que usem um software parecido de controle das proposituras. O de CG tem [essa cara](http://187.115.174.90:8080/ScanLexWeb/).  |
-*Projetos usando* | www.vereadorescg.cc |
 
 ---
 
@@ -277,27 +256,6 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
 *Projetos usando* | https://serenatadeamor.org |
 
 ---
-
-### Dados abertos do governo do Estado da PB
-?    | ! |
- --- | --|
-*O que é* | Dados sobre receitas, despesas por tipo, diárias, passagens, licitações, dispensas de licitações, contratos,  aditivos e convênios do Estado da PB |
-*Formato* | csv |
-*Url*     | http://dados.pb.gov.br/ |
-*Dicas*   |   |
-*Projetos usando* |  |
-
-
-## Possíveis e interessantes
-
-### Atividade dos vereadores em João Pessoa, PB
-?    | ! |
- --- | --|
-*O que é* | O sistema de registro de proposituras da Câmara Municipal pode ser vasculhado e acompanhado por um crawler.  |
-*Formato* | Hoje em HTML, mas em um formato simpático a crawlers.  |
-*Url*     | [Este](http://177.200.32.195:9673/sapl/relatorios_administrativos/historicoTramitacoes/historicoTramitacoes_mostrar_proc?txt_dat_inicio_periodo=11%2F11%2F2016&txt_dat_fim_periodo=06%2F06%2F2017&lst_cod_unid_tram_dest=0&lst_tip_materia=0&lst_status=0&btn_materia_pesquisar=Pesquisar) pode ser um ponto de partida para o crawling.  |
-*Dicas*   | Fizemos algo parecido no passado para a CMCG. Procura mais acima nesse documento.  |
-*Projetos usando* |  |
 
 
 ## Contribuindo
