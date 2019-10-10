@@ -37,7 +37,6 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
   * [Cadastro Nacional de Empresas Punidas (CNEP)](#cadastro-nacional-de-empresas-punidas-cnep)
   * [Dados sistematizados sobre parlamentares, seus gastos, parentes, empresas onde eles gastaram e discursos](#dados-sistematizados-sobre-parlamentares-seus-gastos-parentes-empresas-onde-eles-gastaram-e-discursos)
   * [Dados abertos do governo do Estado da PB](#dados-abertos-do-governo-do-estado-da-pb)
-- [Possíveis e interessantes](#possíveis-e-interessantes)
 - [Contribua!](#contribuindo)
 
 <!-- tocstop -->
