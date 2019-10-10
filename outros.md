@@ -101,4 +101,20 @@ Outros dados de diferentes categorias
 **URL** | [Escala Brasil Transparente](http://www.cgu.gov.br/dados-abertos/arquivos/ebt/arquivos-1/dados_ebt_20170711.csv) |
 
 
+### Dados públicos CNPJ
+
+?    |  !  |
+ --- | --- |
+**Conjunto de dados** | Dados públicos de CNPJ cadastrados |
+**Entidade de referência** | Governo Federal |
+**Órgão responsável pelos dados** | Receita Federal |
+**Última Atualização** | 2019-08-14 |
+**Formato** | .zip/.csv |
+**Tamanho aproximado em disco** | 16GB |
+**Codificação** | UTF-8 |
+**Caractere separador** | ; |
+**Separador decimal** | , |
+**Dica** | Basta ir fazendo o download dos arquivos de Dados Abertos CNPJ, no total são 20. Para extraí-los, usar programa como WinRar. |
+**URL** | [Lista de CNPJ](https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-publicos-cnpj)<br>[Layout](http://200.152.38.155/CNPJ/LAYOUT_DADOS_ABERTOS_CNPJ.pdf)<br>[Motivo Situação Cadastral](https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/DominiosMotivoSituaoCadastral.csv)<br>[Qualificação do Responsável](https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/DominiosQualificaodoresponsvel.csv) |
+
 ---
