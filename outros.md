@@ -116,6 +116,6 @@ Outros dados de diferentes categorias
 **Caractere separador** | ; |
 **Separador decimal** | , |
 **Dica** | Basta ir fazendo o download dos arquivos de Dados Abertos CNPJ, no total são 20. Para extraí-los, usar programa como WinRar. |
-**URL** | [Lista de CNPJ](https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-publicos-cnpj)<br>[Layout](http://200.152.38.155/CNPJ/LAYOUT_DADOS_ABERTOS_CNPJ.pdf)<br>[Motivo Situação Cadastral](https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/DominiosMotivoSituaoCadastral.csv)<br>[Qualificação do Responsável](https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/DominiosQualificaodoresponsvel.csv) |
+**URL** | [Lista de CNPJ](https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/dados-publicos-cnpj)<br>[Layout](http://200.152.38.155/CNPJ/LAYOUT_DADOS_ABERTOS_CNPJ.pdf)<br>[Motivo Situação Cadastral](https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/DominiosMotivoSituaoCadastral.csv)<br>[Qualificação do Responsável](https://receita.economia.gov.br/orientacao/tributaria/cadastros/cadastro-nacional-de-pessoas-juridicas-cnpj/DominiosQualificaodoresponsvel.csv)<br>[Tabela de Municípios](https://github.com/mp-rj/dados-hackfestcc/blob/master/etc/tabela_municipios.csv) |
 
 ---
