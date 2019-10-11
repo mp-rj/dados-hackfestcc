@@ -12,6 +12,7 @@ Dados sobre combate a corrupção em âmbito nacional
    * [Cadastro Nacional de Empresas Inidôneas e Suspensas](#cadastro-nacional-de-empresas-inidôneas-e-suspensas)
    * [Operações Especiais](#operações-especiais)
    * [Sistema de Gestão de Procedimentos de Responsabilização de Entes Privados](#sistema-de-gestão-de-procedimentos-de-responsabilização-de-entes-privados)
+   * [Empresas Cadastradas na Receita Federal](#informações-do-cnpj-da-receita-federal)
 
 - [Estado do Rio de Janeiro](#estado-do-rio-de-janeiro)
    * [Relatório agregado do Sistema RadarRJ](#Relatório-agregado-do-Sistema-RadarRJ)
@@ -141,6 +142,22 @@ Dados sobre combate a corrupção em âmbito nacional
 **Caractere separador** | ; |
 **Separador decimal** | , |
 **URL** | [Sistema de Gestão](https://esic.cgu.gov.br/sistema/arquivosRelatorios/Arquivos_Dados_Abertos/cgupj/CGUPJ_20191001.csv) |
+
+### Informações do CNPJ da Receita Federal
+
+?    |  !  |
+ --- | --- |
+**Conjunto de dados** | Base de dados constituída a partir das informações da receita federal acerca das 
+empresas cadastradas. |
+**Entidade de referência** | Governo Federal |
+**Órgão responsável pelos dados** | Receita Federal |
+**Período de referência** | ? - Atual |
+**Formato** | json |
+**Tamanho aproximado em disco** | 30Gb |
+**Codificação** | UTF-8 |
+**Caractere separador** | , |
+**Separador decimal** | . |
+**URL** | [Link do repositório](https://github.com/cuducos/minha-receita) |
 
 ## Estado do Rio de Janeiro
 
