@@ -24,12 +24,15 @@ Uma lista, não exaustiva mas útil, de dados que já usamos ou vimos que é vi�
 Adoramos contribuições. Para adicionar um novo dado, copie o template abaixo, edite a seção e mande um pull request.
 
 ```
-### Título
-     ?    | ! |
-      --- | --|
-*O que é* |   |
-*Formato* |   |
-*Url*     |   |
-*Dicas*   |   |
-*Projetos usando* |  |
+**Conjunto de dados** |  |
+**Entidade de referência** |  |
+**Órgão responsável pelos dados** |  |
+**Período de referência** |  |
+**Formato** |  |
+**Tamanho aproximado em disco** |  |
+**Codificação** |  |
+**Caractere separador** |  |
+**Separador decimal** |  |
+**Dica** |  |
+**URL** |  |
 ```
